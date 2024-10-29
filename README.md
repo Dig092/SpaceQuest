@@ -1,7 +1,3 @@
-Here’s a polished and professional README file for your "Space Quest" project:
-
----
-
 # 🚀 Space Quest
 
 **An immersive side-scrolling game built with JavaScript and Canvas.**
